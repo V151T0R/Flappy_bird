@@ -17,10 +17,7 @@ This is a Python implementation of a simple Flappy Bird-inspired game set in spa
 * Python 3.6 or later
 * [Pygame](https://www.pygame.org/) library
 
-Install the Pygame library using pip: pip install pygame
-
-
 ## Gameplay
 <p align="center">
-  <img src="Gameplay/gameplay.gif " width="500"/>
+  <img src="Gameplay/gameplay.gif " width="700"/>
 </p>
